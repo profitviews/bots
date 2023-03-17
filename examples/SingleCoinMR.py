@@ -3,7 +3,8 @@
 # It is *not* expected to trade effectively.  Instead, it will likely lose
 # money.
 #
-# WARNING: use this code AT YOUR OWN RISK.
+# WARNING: use this code AT YOUR OWN RISK.  Please read the LICENSE: 
+# https://github.com/profitviews/bots/blob/main/LICENSE
 
 from profitview import Link, logger
 import talib
