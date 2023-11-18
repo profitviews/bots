@@ -13,3 +13,7 @@ The above text applies to anything you might place in your trading bot, includin
 ## The Bots
 
 The Trading Bots made available in this repo will generally have been tested in ProfitView so that they should run there.  However, there is no *guarantee* that they will especially since new versions of the Trading Bots system may be introduced.  Please use them at your own risk and debug them carefully.  They are provided AS IS and WITHOUT WARRANTEE.  Please see the [LICENSE](/LICENSE).
+
+## More Action
+
+See also our work on a demonstration Grid Bot: [github.com/profitviews/grid-bot](https://github.com/profitviews/grid-bot) and have a look at our [Workshops](https://github.com/profitviews/workshops)
